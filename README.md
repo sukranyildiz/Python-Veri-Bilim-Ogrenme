@@ -1,5 +1,3 @@
-# Python-Veri-Bilim-Ogrenme
- Python ve Veri Bilimi Pratikleri
 # Python ve Veri Bilimi Pratikleri
 
 Bu repository, Python kullanarak veri bilimi öğrenme sürecimi içerir. 
